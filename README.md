@@ -2,18 +2,21 @@
 <p align="center">
 Software Engineer | Mobile Apps | iOS
 </p>
-<p>
+<p align="center">
 	📫 You can find me on
 	<a href="https://www.linkedin.com/in/aharrisson/">LinkedIn</a> and 
 	<a href="https://www.instagram.com/aharrisson">Instagram</a>
 </p>
-<p align="center"></p>
-
-🔭 Currently working as an <b>iOS Developer</b> <br>
+<p align="center">
+🏠 Living in Berlin, Germany <br>
+🔭 Currently working as an iOS Developer for Axel Springer <br>
 🎓 Humboldt University of Berlin
+</p> 
+
 <br>
 
-<p>
+<h4 align="center">My Tech Stack</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-blue?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&color=%2300599C">
