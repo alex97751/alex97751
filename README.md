@@ -3,7 +3,7 @@
 Software Engineer | Mobile Apps | iOS
 </p>
 <p>
-	📫 You can find me on:
+	📫 You can find me on
 	<a href="https://www.linkedin.com/in/aharrisson/">LinkedIn</a> and 
 	<a href="https://www.instagram.com/aharrisson">Instagram</a>
 </p>
@@ -12,9 +12,6 @@ Software Engineer | Mobile Apps | iOS
 🔭 Currently working as an <b>iOS Developer</b> <br>
 🎓 Humboldt University of Berlin
 <br>
-🌱 Currently learning 
-
-**💻 My Tech Stack**
 
 <p>
   <img src="https://img.shields.io/badge/Swift-blue?style=for-the-badge&logo=swift&logoColor=white">
