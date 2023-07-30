@@ -3,18 +3,21 @@
 Software Engineer | Mobile Apps | iOS
 </p>
 <p align="center">
-	📫 You can find me on
-	<a href="https://www.linkedin.com/in/aharrisson/">LinkedIn</a> and 
-	<a href="https://www.instagram.com/aharrisson">Instagram</a>
+	📫 You can find me on<br>
 </p>
+
+<p align="center">	
+<a href="https://www.linkedin.com/in/aharrisson"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/aharrisson"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F"/></a>	
+</p>
+
 <p align="center">
 🏠 Living in Berlin, Germany <br>
 🔭 Currently working as an iOS Developer for Axel Springer <br>
 🎓 Humboldt University of Berlin
 </p> 
 
-<br>
-
+<div>
 <h4 align="center">My Tech Stack</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-blue?style=for-the-badge&logo=swift&logoColor=white">
@@ -31,5 +34,12 @@ Software Engineer | Mobile Apps | iOS
   <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/-NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&color=%230052CC">
-
 </p>
+</div>
+
+<br>
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img src="https://streak-stats.demolab.com?user=alex97751&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&excludeDaysLabel=true&starting_year=201" />
+</div>
+
