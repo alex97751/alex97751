@@ -7,8 +7,8 @@ Software Engineer | Mobile Apps | iOS
 </p>
 
 <p align="center">	
-<a href="https://www.linkedin.com/in/aharrisson"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/aharrisson"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F"/></a>	
+<a href="https://www.linkedin.com/in/aharrisson" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/aharrisson" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F"/></a>	
 </p>
 
 <p align="center">
