@@ -40,6 +40,6 @@ Software Engineer | Mobile Apps | iOS
 <br>
 
 <div align="center" style="display: flex; flex-direction: row;">
- <img src="https://streak-stats.demolab.com?user=alex97751&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&excludeDaysLabel=true&starting_year=201" />
+ <img src="https://streak-stats.demolab.com?user=alex97751&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&excludeDaysLabel=true&starting_year=2019" />
 </div>
 
