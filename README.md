@@ -14,7 +14,7 @@ Software Engineer | Mobile Apps | iOS
 <p align="center">
 🏠 Living in Berlin, Germany <br>
 🔭 Currently working as an iOS Developer for Axel Springer <br>
-🎓 Humboldt University of Berlin
+🎓 Humboldt University of Berlin (Computer Science, M.Sc)
 </p> 
 
 <div>
@@ -22,12 +22,14 @@ Software Engineer | Mobile Apps | iOS
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-blue?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=white&color=red">
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&color=%2300599C">
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&color=%23363636"><br>
 	
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1"><br>
 
   <img src="https://img.shields.io/badge/iOS_dev-black?style=for-the-badge&logo=ios">
   <img src="https://img.shields.io/badge/xcode-blue?style=for-the-badge&logo=xcode&logoColor=white">
