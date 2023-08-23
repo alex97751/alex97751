@@ -11,6 +11,7 @@ Software Engineer | Mobile Apps | iOS
 <a href="https://www.instagram.com/aharrisson" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F"/></a>	
 </p>
 
+<h4 align="center">About Me</h4>
 <p align="center">
 🏠 Living in Berlin, Germany <br>
 🔭 Currently working as an iOS Developer for Axel Springer <br>
