@@ -1,6 +1,6 @@
 <h3 align="center">Alex Harrisson</h3>
 <p align="center">
-Software Engineer | Mobile Apps | iOS
+Software Engineer | Mobile Apps | Student
 </p>
 <p align="center">
 	📫 You can find me on<br>
